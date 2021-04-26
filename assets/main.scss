@@ -1,0 +1,56 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/assets/logo/eo_logo_orange_border_48px.png");
+	display: inline-block;
+	position: relative;
+	width: 60px;
+	top: 5px;
+}
+
+.site-header {
+	border-top: 5px solid lightgray;
+	border-bottom: 1px solid lightgray;
+	min-height: $spacing-unit * 1.865;
+  
+	// Positioning context for the mobile navigation icon
+	position: relative;
+
+	// overwrite
+	background-color: lightgray;
+}
+
+.site-footer {
+	border-top: 1px solid lightgray;
+	padding: $spacing-unit 0;
+
+	// overwrite
+	background-color: lightgray;
+}
+
+.image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(220px, 1fr));
+    justify-content: center;
+    padding: 4px;
+  }
+
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 10px;
+      margin: 2px;
+  }
+
+  .img-gallery {
+	width: 200px;
+    height: 200px;
+    object-fit: cover;
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+  }
