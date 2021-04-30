@@ -22,7 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enryolto
 github_username:  enryolto
 instagram_username: black.and.white.patterns
+flickr_username: enryolto
+pinterest_username: enryolto
 google_analytics: UA-132446436-3
+
+header_pages:
+  - index.md
+  - black_and_white_patterns.md
+  - cubes_and_other_puzzles.md
+  - about.md
 
 # Build settings
 markdown: kramdown

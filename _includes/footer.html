@@ -1,47 +1,43 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
 
   <div class="wrapper">
 
-
     <div class="footer-col-wrapper">
-      <!--
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-      -->
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-singlecol">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p style="font-size: small;">Copyright &copy; 2021 enryolto</p>
-      </div>
-
-
     </div>
-    <div class="footer-col footer-col-3">
-      <p style="font-size: x-small;">
-        <style>.heart{color:red; font-size: small;}</style>
-          Made with <span class="heart">♥</span> in <img src="/assets/img/ita_flag_round.png" width="12"/>
+    <div class="footer-col-wrapper">
+
+      <div class="footer-singlecol">
+        <p class="footer-footnotes">
+          <style>
+            .heart {
+              color: red;
+              font-size: small;
+            }
+          </style>
+          <style>
+            .roundflag {
+              vertical-align: baseline;
+            }
+          </style>
+          Made with <span class="heart">♥</span> in <img class="roundflag" src="/assets/img/ita_flag_round.png"
+            width="12" />
           - hosted on <a href="https://pages.github.com">GitHub Pages</a>
           - based on <a href="https://jekyllrb.com/">Jekyll</a>
           with <a href="https://github.com/jekyll/minima">Minima</a>
           - <a href="/cookie_policy">cookie policy</a>
-      </p>
+          <br>
+          Copyright &copy; 2021 enryolto
+        </p>
+      </div>
     </div>
+
   </div>
 
 </footer>
+{% include new-window-fix.html %}

@@ -26,7 +26,7 @@
 
 .site-footer {
 	border-top: 1px solid lightgray;
-	padding: $spacing-unit 0;
+	padding: $spacing-unit / 2 $spacing-unit / 2;
 
 	// overwrite
 	background-color: lightgray;
@@ -54,3 +54,29 @@
     transform: scale(1);
     transition: all 0.3s ease-in-out;
   }
+
+  .footer-footnotes {
+    font-size: x-small;
+    text-align: left;
+    padding-top: $spacing-unit / 2;
+  }
+
+  .footer-singlecol {
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+
+  .footer-socialmedia {
+    text-align: left;
+    float: left;
+  }
+
+  .svg-icon-larger {
+    width: 36px;
+    height: 24px;
+    display: inline-block;
+    fill: #{$grey-color};
+    padding-right: 5px;
+    vertical-align: text-top;
+    transform:scale(1.5,1.5)
+}

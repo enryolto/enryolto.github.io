@@ -13,7 +13,7 @@ At the same time I have a long standing passion for technology, in several forms
 - Internet and Digital
 - Computer Graphics and Design
 
-I also like to practice creativity as a way to fight against fatigue from [Information Overload](https://en.wikipedia.org/wiki/Information_overload), so I enjoy:
+I also try to practice creativity as a way to fight against fatigue from [Information Overload](https://en.wikipedia.org/wiki/Information_overload), so I enjoy:
 - **Photography** (you can have a look at my [Flickr](https://www.flickr.com/photos/enryolto), even if it is not updated for a long time)
 - **Drawing** (you can have a look at the [Black&White patterns](/black.and.white.patterns) page)
 
