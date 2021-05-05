@@ -102,7 +102,7 @@ Se solo 2 pezzi centrali sono in posizione errata, possono essere invertiti:
 
 # Credits
 
-- <https://www.jaapsch.net/puzzles/pyramorf.htm>]
-- <http://www.mefferts.com/puzzles/jpmsol.html>]
+- <https://www.jaapsch.net/puzzles/pyramorf.htm>
+- <http://www.mefferts.com/puzzles/jpmsol.html>
 
 {% include cube_footer.md %}

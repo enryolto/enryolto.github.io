@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Risolution 4x4
+title: Risoluzione 4x4
 permalink: /it/cubes/4x4_resolution
 lang: it
 ---
