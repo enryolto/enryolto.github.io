@@ -5,7 +5,7 @@ permalink: /it/cubes/4x4_notation
 lang: it
 ---
 
-# SINGOLA FACCIA - LETTERE MAIUSCOLE
+# Singola Faccia - Lettere maiuscole
 
 ![4x4_notation-1](/assets/cubes/4x4_notation-1.png)
 
@@ -25,7 +25,7 @@ Una lettera seguita dal numero 2 si riferisce ad una **doppia rotazione**, cioè
 
 Nello schema a fianco è indicata in **rosso** la faccia da ruotare, in **grigio** la faccia frontale (**F**).
 
-# DUE FACCE - W
+# Due Facce - W
 
 Una lettera singola **maiuscola** **seguita da `w`** si riferisce ad una rotazione di **due facce** **in senso orario** di 90 gradi (un quarto di giro)
 
@@ -43,7 +43,7 @@ Una lettera seguita da **`w2`** si riferisce ad una **doppia rotazione**, cioè 
 
 ![4x4_notation-4](/assets/cubes/4x4_notation-4.png)
 
-# ROTAZIONI INTERNE (SLICE) - LETTERE MINUSCOLE
+# Rotazioni Interne (slice) - Lettere minuscole
 
 ![4x4_notation-5](/assets/cubes/4x4_notation-5.png)
 

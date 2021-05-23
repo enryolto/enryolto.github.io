@@ -9,7 +9,7 @@ Fate riferimento alla pagina di spiegazione della **[notazione](4x4_notation)** 
 
 ![4x4_resolution-1](/assets/cubes/4x4_resolution-1.png)
 
-# 1. CENTRO 2X2 SU UNA FACCIA
+# 1. Centro 2x2 su una faccia
 
 1. 
     1. Dato che il cubo 4x4 non ha pezzi centrali fissi che determinano il colore della faccia corrispondente, bisogna determinare lo [schema dei colori](color_scheme) a partire dai pezzi d'angolo.
@@ -17,7 +17,7 @@ Fate riferimento alla pagina di spiegazione della **[notazione](4x4_notation)** 
     3. Non servono istruzioni per risolvere questo primo centro 2x2 in quanto non ci sono pezzi già risolti da mantenere in posizione; si può utilizzare il seguente algoritmo per inserire un pezzo dalla faccia superiore a quella frontale:
         ▪ **`Dw' Fw' Dw`**
 
-# 2. CENTRO SULLA FACCIA OPPOSTA
+# 2. Centro sulla faccia opposta
 
 1. 
     1. Una volta completato il centro della faccia **bianca**, procedi a completare il centro opposto 2x2 che sarà **giallo**.
@@ -30,30 +30,30 @@ Fate riferimento alla pagina di spiegazione della **[notazione](4x4_notation)** 
 
 ![4x4_resolution-3](/assets/cubes/4x4_resolution-3.png)
 
-# 3. GLI ALTRI CENTRI
+# 3. Gli altri centri
 
 1. 
     1. Mantieni i centri completati nelle facce **sinistra** e **destra**; fai attenzione allo [schema dei colori](color_scheme) per evitare di dover successivamente procedere a [spostare i centri](move_centers) già completati.
     2. Utilizza gli stessi algoritmi del passo precedente, sempre mantenendo le facce bianca e gialla a sinistra e destra:
         ▪ **`Rw U Rw'`**
 
-# 4/A. ALLINEAMENTO SPIGOLI INCROCIATI
+# 4/A. Allineamento spigoli incrociati
 
 Una volta completati tutti i centri 2x2, il passo successivo consiste **nell'appaiare gli spigoli**; l'algoritmo permette di appaiare gli spigoli fronte-sinistro e fronte-destro (della faccia centrale). A seconda della posizione ci sono algoritmi speculari.
 
 ![4x4_resolution-4](/assets/cubes/4x4_resolution-4.png)
 
-# PRIMO CASO
+# Primo caso
 
 **`Uw L' U' L Uw'`**
 
 ![4x4_resolution-5](/assets/cubes/4x4_resolution-5.png)
 
-# SECONDO CASO
+# Secondo caso
 
 **`Uw' R U R' Uw`**
 
-# 4/B. ALLINEAMENTO SPIGOLI OPPOSTI
+# 4/B. Allineamento spigoli opposti
 
 Quando i pezzi da appaiare sono opposti (sullo stesso livello della faccia centrale), è necessario girare quello a destra al contrario per effettuare una delle mosse.
 
@@ -63,14 +63,14 @@ Quando i pezzi da appaiare sono opposti (sullo stesso livello della faccia centr
 
 ![4x4_resolution-7](/assets/cubes/4x4_resolution-7.png)
 
-# 5. ALLINEAMENTO DEGLI ULTIMI 2 SPIGOLI
+# 5. Allineamento degli ultimi 2 spigoli
 
 1. 
     1. Una volta rimasti gli ultimi 2 spigoli da appaiare, non si possono utilizzare gli algoritmi indicati sopra perché mancano spigoli ancora da appaiare da mantenere nello strato superiore.
     2. Si utilizza allora un algoritmo diverso per risolvere questi ultimi 2; utilizza l'algoritmo **`R U' B' R2`** se il pezzi non sono allineati correttamente.
     3. Appaia gli ultimi 2 spigoli: **`Dw R F' U R' F Dw'`**
 
-# 6. RISOLUZIONE COME 3X3
+# 6. Risoluzione come 3x3
 
 1. Bisogna considerare i due strati centrali come uno solo fisso, in particolare
     - i centri 2x2 (**A**)

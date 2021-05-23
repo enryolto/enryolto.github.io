@@ -7,7 +7,7 @@ lang: it
 
 # <SEZIONE DA VERIFICARE>
 
-# CENTRI OPPOSTI
+# Centri Opposti
 
 Per invertire due centro opposti (fronte e retro) senza muovere gli altri pezzi, si può usare:
 
@@ -17,7 +17,7 @@ Alternativa più breve (top & bottom):
 
 `r2 S2 r2 S2`
 
-# CENTRI ADIACENTI
+# Centri Adiacenti
 
 Per invertire 2 centri adiacenti (top & front) si può usare:
 
