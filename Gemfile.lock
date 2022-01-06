@@ -70,7 +70,9 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  aarch64-linux
   arm-linux
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 3.9.0)
@@ -82,4 +84,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.2.15
+   2.2.19
