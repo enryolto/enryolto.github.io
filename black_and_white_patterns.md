@@ -6,7 +6,9 @@ permalink: /black.and.white.patterns/
 
 My small collection of Digital Art that I created on a computer to replicate what I used to do on paper long time ago.
 
-You can find the same on my Instagram profile [@black.and.white.patterns](https://instagram.com/black.and.white.patterns).
+You can find the same on my 
+* Instagram profile [@black.and.white.patterns](https://instagram.com/black.and.white.patterns);
+* Behance portfolio [Black & White patterns](https://www.behance.net/gallery/134511529/Black-White-Patterns).
 
 I also have some interesting posts saved on [Pinterest](https://www.pinterest.it/enryolto/).
 
