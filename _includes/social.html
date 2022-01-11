@@ -11,4 +11,5 @@
   {%- if site.youtube_username -%}<a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon-larger"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a>{%- endif -%}
   {%- if site.googleplus_username -%}<a href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon-larger"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg></a>{%- endif -%}
   {%- if site.rss -%}<a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon-larger"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a>{%- endif -%}
+  {%- if site.behance_username -%}<a href="https://www.behance.net/{{ site.behance_username | cgi_escape | escape }}"></a><svg class="svg-icon-larger"><use xlink:href="{{ '/assets/behance_icon.svg' | relative_url }}"></use></svg></a>{%- endif -%}
 </div>
