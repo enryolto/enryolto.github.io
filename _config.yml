@@ -25,7 +25,7 @@ instagram_username: black.and.white.patterns
 flickr_username: enryolto
 pinterest_username: enryolto
 behance_username: enricooltolina
-google_analytics: UA-132446436-3
+#google_analytics: UA-132446436-3
 
 header_pages:
   - index.md
