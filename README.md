@@ -4,7 +4,7 @@ You can find it on [GitHub Pages](https://enryolto.github.io).
 And remember that 
 > There's no place like $HOME
 
-🚧***It is still under construction.***🚧
+🚧 ***It is still under construction.*** 🚧
 
 What can you find today?
 - ☯️ The Black&White patterns page, also on Instagram [@black.and.white.patterns](https://www.instagram.com/black.and.white.patterns/)
