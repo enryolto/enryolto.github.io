@@ -9,7 +9,7 @@ permalink: /about/
 I have a day (and sometimes night also...) job as a Project Manager.
 
 At the same time I have a long standing passion for technology, in several forms. To name a few:
-- 👨🏻‍💻 Software Development (e.g. [Parole Fortunate](https://parole-fortunate.web.app) web app *in italian*)
+- 👨🏻‍💻 Software Development (e.g. [Parole Vincenti](https://parole-vincenti.web.app) web app *in italian*)
 - 🌎 Internet and Digital
 - 🎨 Computer Graphics and Design
 

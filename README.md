@@ -9,7 +9,7 @@ And remember that
 What can you find today?
 - ☯️ The Black&White patterns page, also on Instagram [@black.and.white.patterns](https://www.instagram.com/black.and.white.patterns/)
 - 🧊 Some guides to solve Rubik's Cubes (3x, 4x4 and 2x2) and a couple of other 3D puzzles (namely Pyraminx and Pyramorphix) - *in italian*
-- 🍀 A link to the web app ["Parole Fortunate"](https://parole-fortunate.web.app), *in italian* - that allows to generate lucky numbers for *SuperEnalotto* starting from lucky words 
+- 🍀 A link to the web app ["Parole Vincenti"](https://parole-vincenti.web.app), *in italian* - that allows to generate lucky numbers for *SuperEnalotto* starting from lucky words 
 
 The same content are on Google Sites - but I am going to remove them soon:
 - [Black and White patterns](https://sites.google.com/view/blackandwhitepatterns)
