@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 __minima
 assets/.DS_Store
+.DS_Store
